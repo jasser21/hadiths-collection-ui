@@ -1,2 +1,2 @@
 # hadiths-collection-ui
-this is still under development
+This project is currently under development and is not be fully functional
